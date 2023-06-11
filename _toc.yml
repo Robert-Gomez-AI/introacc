@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: introduccion
+chapters:
+- file: fundamentos
+- file: solucion-computacional-de-problemas
+- file: expresiones
+- file: estructuras-de-control
+- file: estructuras-de-datos
+- file: funciones 
